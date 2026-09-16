@@ -1,7 +1,9 @@
 ---
-title: "assignment-3-jam958"
+title: "Assignment 3 Website"
 ---
 
-This is a Quarto website.
+#### Joy Mello: <https://github.com/jam958>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+#### Flora Lyu: <https://github.com/zl2238>
+
+![A picture I took of a ptarmigan this summer.](DSC00451-2%20copy.jpg){width="516"}
