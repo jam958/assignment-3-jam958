@@ -7,5 +7,3 @@ title: "Assignment 3 Website"
 ##### Flora Lyu: <https://github.com/zl2238>
 
 ![A picture I took of a ptarmigan this summer.](DSC00451-2%20copy.jpg)
-
-This change was made by Flora on 9.16.26.

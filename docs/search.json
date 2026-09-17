@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Joy Mello",
+    "objectID": "Hello!.html",
+    "href": "Hello!.html",
+    "title": "Hello!",
     "section": "",
-    "text": "Senior studying Ecology & Evolutionary Biology\nOriginally from southcoast Massachusetts\nLoves opossums and kingfishers"
+    "text": "This change was made by Flora on 9.16.26."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Assignment 3 Website",
     "section": "",
-    "text": "Joy Mello: https://github.com/jam958\n\n\nFlora Lyu: https://github.com/zl2238\n\n\n\nA picture I took of a ptarmigan this summer.\n\n\nThis change was made by Flora on 9.16.26."
+    "text": "Joy Mello: https://github.com/jam958\n\n\nFlora Lyu: https://github.com/zl2238\n\n\n\nA picture I took of a ptarmigan this summer."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Joy Mello",
+    "section": "",
+    "text": "Senior studying Ecology & Evolutionary Biology\nOriginally from southcoast Massachusetts\nLoves opossums and kingfishers"
   }
 ]
